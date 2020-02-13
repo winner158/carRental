@@ -1,5 +1,5 @@
 ## 系统名称 
-汽车租赁系统 carRental
+汽车租赁系统 carRental 暂时托管，还未修改
 ### 系统概要
 汽车租赁系统总共分为两个大的模块，分别是系统模块和业务模块。其中系统模块和业务模块底下又有其子模块。
 ### 功能模块
@@ -62,47 +62,3 @@
 * 服务器：Tomcat 8.5
 * 数据库：MySQL 
 * 代码托管平台：GitHub
-
-### 预览效果
-登陆页面
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/login.PNG)
-主页
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/index.PNG)
-菜单管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/menu.PNG)
-角色管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/角色管理.PNG)
-用户管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/用户管理.PNG)
-日志管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/日志管理.PNG)
-系统公告
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/系统公告.PNG)
-数据源监控
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/数据源监控.PNG)
-客户管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/客户管理.PNG)
-车辆管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/车辆管理.PNG)
-汽车出租
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/汽车出租.PNG)
-出租单管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/出租单管理.PNG)
-汽车入库
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/汽车入库.PNG)
-检查单管理
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/检查单管理.PNG)
-客户地区统计
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/客户地区统计.PNG)
-客户地区性别统计
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/客户地区性别统计.PNG)
-业务员年度销售额统计
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/业务员年度销售额统计.PNG)
-公司年度月份销售额统计
-![image](https://github.com/yeqifu/carRental/blob/master/src/main/webapp/static/images/carRental/公司年度月份销售额统计.PNG)
-
-### 讨论
-有问题请在([issue])讨论
-
-#### 作者
-yeqifu
